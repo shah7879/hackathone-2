@@ -8,7 +8,7 @@ const AsgaardSofaPage = () => {
     <div className="container mx-auto px-4">
       {/* Breadcrumb Bar */}
       <div className="text-gray-500 text-sm my-4">
-        <Link href="/" className="hover:text-black">Home</Link> &gt; 
+        <Link href="/" className="hover:text-black">Home</Link>npx  &gt; 
         <Link href="/shop" className="hover:text-black">Shop</Link> &gt; 
         <span className="font-semibold">Asgaard Sofa</span>
       </div>
@@ -166,8 +166,7 @@ const AsgaardSofaPage = () => {
     <div className="grid grid-cols-2 gap-4">
       <div className="p-4">
          <p className="text-gray-600">
-        Embodying the row, wayward spirit of rock n' roll the Kilburn portable active stereo speaker takes the unmistakable look sound of Marshall unplugs the chords, and takes the show on the road.
-
+        Embodying the row, wayward spirit of rock n roll the Kilburn portable active stereo speaker takes the unmistakable look sound of Marshall unplugs the chords, and takes the show on the road.
         </p>
       </div>
       <div className="p-4">
@@ -234,12 +233,6 @@ const AsgaardSofaPage = () => {
           </div>
         </div>
       </section>
-
-
-
-
-
-
     </div>
   );
 };
